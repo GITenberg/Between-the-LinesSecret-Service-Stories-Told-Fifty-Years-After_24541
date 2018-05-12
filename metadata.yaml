@@ -1,0 +1,30 @@
+_repo: Between-the-LinesSecret-Service-Stories-Told-Fifty-Years-After_24541
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, Henry Bascom
+    deathdate: 1916
+    gutenberg_agent_id: '26568'
+    url: http://www.gutenberg.org/2009/agents/26568
+description: ''
+gutenberg_bookshelf:
+- US Civil War
+- United States
+gutenberg_issued: '2008-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24541'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Anecdotes'
+- !lcsh 'United States. Secret Service'
+- !lcc 'E456'
+title: 'Between the Lines: Secret Service Stories Told Fifty Years After'
+url: http://www.gutenberg.org/ebooks/24541
