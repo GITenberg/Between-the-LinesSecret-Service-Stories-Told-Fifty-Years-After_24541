@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '26568'
     url: http://www.gutenberg.org/2009/agents/26568
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24541#Between-the-LinesSecret-Service-Stories-Told-Fifty-Years-After
 gutenberg_bookshelf:
 - US Civil War
 - United States
